@@ -23,3 +23,10 @@
 
 </ul>
 <br>
+
+<b>instruction to run the app :</b>
+<li>python3 manage.py makemigration</li>
+<li>python3 manage.py migrate</li>
+<li>python3 manage.py createsuperuser</li>
+<li>python3 manage.py runserver</li>
+
