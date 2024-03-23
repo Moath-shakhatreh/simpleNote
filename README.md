@@ -1,4 +1,4 @@
-
+<li>This is a simple note app where every user can create edit and delete his own notes</li> 
 
 <br>
 
@@ -19,7 +19,7 @@
 <b>3. notes</b>
 <ul>
     <li>Create Element & Access List: http://127.0.0.1:8000/notes/</li>
-    <li>Access, Update & Destroy Individual Element: http://127.0.0.1:8000/notes/<int>/</li>
+    <li>Access, Update & Destroy Individual Element: http://127.0.0.1:8000/notes<int>/</li>
 
 </ul>
 <br>
